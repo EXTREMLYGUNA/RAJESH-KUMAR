@@ -2,12 +2,14 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 import Table from 'react-bootstrap/Table';
+import image from './assets/RAJESH KUMAR.jpg'
 
 function App() {
   return (<>
   <div className='contain' >
     <div className='container-flu' >
 
+      <img title='Rajesh kumar' src={image} />
       <div>
         <h1 className='resume' >RESUME</h1>
         <div className='content' >

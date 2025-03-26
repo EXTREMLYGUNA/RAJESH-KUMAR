@@ -42,6 +42,13 @@ ul li{
 .class{
   margin-left: 900px;
 }
+img{
+  width: 150px;
+  height:150px;
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 20px;
+}
 
 @media screen and ( min-width: 63px )
 {
