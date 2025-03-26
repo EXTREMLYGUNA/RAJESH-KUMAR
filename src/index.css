@@ -1,0 +1,52 @@
+*{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  margin: 0;
+}
+.container-flu{
+  display: inline-block;
+  margin-left: 100px;
+  padding-right: 200px;
+}
+.resume{
+  text-align: center;
+  font-weight: bolder;
+}
+.content h4{
+  display: inline-block;
+  font-weight: bolder;
+}
+.content a{
+  text-decoration: none;
+}
+.career{
+  background-color: rgb(229, 146, 135);
+  font-weight: bolder
+}
+.paragraph{
+  font-size: 20px;
+}
+.table{
+  font-size: 20px;
+}
+ul li{
+  font-size: 20px;
+}
+.bold{
+  font-size: 20px;
+}
+.personal h5{
+  font-size: 20px;
+  display: inline-block;
+}
+.class{
+  margin-left: 900px;
+}
+
+@media screen and ( min-width: 63px )
+{
+  .container-flu{
+    display: inline-block;
+  }
+}
+
